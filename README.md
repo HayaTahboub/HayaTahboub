@@ -7,10 +7,15 @@ hardware verification.
 ## 🛠️ Tech Stack
 
 **Languages:** Java · JavaScript · TypeScript · Python · C++ · SQL
+
 **Frontend:** React · HTML · CSS · shadcn/ui
+
 **Backend:** Node.js · Express
+
 **Databases:** PostgreSQL · MySQL
+
 **DevOps & Tools:** Docker · RabbitMQ · GitHub Actions · AWS · Azure · Git · Linux
+
 **Hardware/Verification:** UVM · SystemVerilog · Cadence Verisium
 
 ## 🚀 Featured Projects
