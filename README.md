@@ -4,6 +4,7 @@ Computer Systems Engineering graduate from Palestine Polytechnic University
 (GPA: 90.8/100) with hands-on experience in full-stack development and
 hardware verification.
 
+🌐 **Portfolio:** [haya1tahboub.getportify.com](https://haya1tahboub.getportify.com)
 ---
 
 ## 🛠️ Tech Stack
